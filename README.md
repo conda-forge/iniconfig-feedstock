@@ -5,11 +5,9 @@ Home: http://github.com/RonnyPfannschmidt/iniconfig
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/iniconfig-feedstock/blob/master/LICENSE.txt)
 
 Summary: iniconfig: brain-dead simple config-ini parsing
-
-
 
 Current build status
 ====================
