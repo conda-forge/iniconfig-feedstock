@@ -1,5 +1,5 @@
 {% set name = "iniconfig" %}
-{% set version = "1.1.1" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: bc3af051d7d14b2ee5ef9969666def0cd1a000e121eaea580d4a313df4b37f32
+  sha256: 2d91e135bf72d31a410b17c16da610a82cb55f6b0477d1a902134b24a455b8b3
 
 build:
   number: 0
